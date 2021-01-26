@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GST Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cost_of_production">Cost of Production</string>
+    <string name="gst">GST %</string>
+    <string name="profit_ratio">Profit Ratio %</string>
+    <string name="_0">0</string>
+</resources>
